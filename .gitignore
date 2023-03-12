@@ -1,0 +1,22 @@
+.vscode
+
+*.log
+*.pot
+*.pyc
+__pycache__
+db.sqlite3
+media
+book/cover/
+book/prgh/
+
+book/migrations/*
+order/migrations/*
+member/migrations/*
+
+staticfiles/
+
+# Environments 
+.env 
+.venv 
+my_env/
+
